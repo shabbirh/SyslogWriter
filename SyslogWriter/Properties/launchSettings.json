@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SyslogWriter": {
+      "commandName": "Project"
+    }
+  }
+}
