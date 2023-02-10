@@ -31,12 +31,7 @@ namespace SyslogWriter
 
         private static void HandleParseError(IEnumerable<Error> errs)
         {
-            //var sb = new StringBuilder();
-            //foreach (var error in errs)
-            //{
-            //    sb.AppendLine($"{error.Tag}: Stops Processing: {error.StopsProcessing}");
-            //}
-            //Console.WriteLine(sb.ToString());
+           
         }
     }
 }
