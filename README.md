@@ -24,7 +24,9 @@ Example:
 
 Assuming that you have a syslog server at host "my.syslog.server" or IP "10.10.10.10", listening on UDP port 514, and you want to log an error message:
 
-```SyslogWriter.exe --server 10.10.10.10 --port 514 --level Error --message "This is a test error message"```
+```
+SyslogWriter.exe --server 10.10.10.10 --port 514 --level Error --message "This is a test error message"
+```
 
 Levels can be as follows:
 
